@@ -49,3 +49,5 @@ No build tools or dependencies required — this is a static site.
 
 **Muhammad Ammar**
 Web/Software Developer based in Soon Valley, Pakistan
+GitHub: @tcintern-006
+LinkedIn: muhammadammar46
