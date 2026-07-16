@@ -43,18 +43,7 @@ No build tools or dependencies required — this is a static site.
    ```
 3. Open `index.html` directly in your browser, or serve it locally (e.g. with the VS Code Live Server extension) for the best experience.
 
-## 📝 Customization Notes
 
-Before publishing, you may want to:
-- Replace the placeholder "Lorem ipsum" text in the About section with a real bio
-- Update the social icon links (GitHub, LinkedIn, YouTube) with actual profile URLs
-- Add real project images, live demo links, and GitHub repo links to each project card
-- Wire up the contact form to an email service or backend endpoint
-- Add a working "Download CV" link
-
-## 📄 License
-
-No license specified yet. Consider adding one (e.g. MIT) if you'd like others to reuse this code.
 
 ## 👤 Author
 
